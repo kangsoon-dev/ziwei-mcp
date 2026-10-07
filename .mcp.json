@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ziwei-doushu": {
+      "command": "node",
+      "args": ["src/index.js"]
+    }
+  }
+}
